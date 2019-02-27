@@ -26,6 +26,7 @@ public class Cell extends JButton {
 		this.setFont(new Font("Arial",Font.BOLD,20));
 		this.xPos = x;
 		this.yPos = y;
+	
 				
 		
 	}

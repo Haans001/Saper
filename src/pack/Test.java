@@ -13,9 +13,6 @@ public class Test {
 			Game frame = new Game();
 			frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 			frame.setVisible(true);
-			
-			
-			
 		});
 		
 	}
